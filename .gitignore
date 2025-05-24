@@ -25,3 +25,9 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+
+darknet53.conv.74
+backup
+*.a
+*.so
+*.weights

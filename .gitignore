@@ -31,3 +31,4 @@ backup
 *.a
 *.so
 *.weights
+*.log

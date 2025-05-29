@@ -32,3 +32,4 @@ backup
 *.so
 *.weights
 *.log
+results/
